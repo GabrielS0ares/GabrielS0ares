@@ -1,7 +1,13 @@
-<h1>Olá! Eu sou o Gabriel Soares</h1>
-<h2>Trabalho como Desenvolvedor Front-end, onde minha paixão pela criação de experiências interativas e intuitivas me impulsiona a buscar constantemente novos conhecimentos. Estou dedicado ao aprimoramento contínuo das minhas habilidades, explorando as últimas tendências e ferramentas no universo do desenvolvimento web.</h2>
+<img align="right" width="250px" style="margin-top:-20px" src="https://media.tenor.com/_HwQHDixHnMAAAAM/kitten-cat.gif">
+
+<h1>Olá! Eu sou o Gabriel</h1>
+<h3>Trabalho como Desenvolvedor Front-end,  Estou dedicado ao aprimoramento contínuo das minhas habilidades, explorando as últimas tendências e ferramentas no universo do desenvolvimento web.</h3>
+
+<p align="center">
+  <img  width="350">
+</p>
 <div>
-  <h3>Linguagens/Frameworks</h3>
+  <h2>🖥️ Tecnologias: </h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='50px'/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='50px' /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='50px'/>
@@ -14,23 +20,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width='50px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='50px'/>
 </div>
+<br />
 <div>
-  <h3>Ferramentas</h3>
+  <h2>🛠️Ferramentas:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='50px'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width='50px'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width='50px'/>  
-</div>
-<div>
-  <h3>Design</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width='50px'/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"  width='50px'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width='50px'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"  width='50px'/>
 </div>
 <br />
 <div>
-  
-<a href="https://github.com/gabrielS0ares">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielS0ares&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="https://github.com/gabrielS0ares">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielS0ares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br />
 
-![Snake animation](https://github.com/gabrielS0ares/gabrielS0ares/blob/output/github-contribution-grid-snake.svg)
+<h2>Contatos</h2>
+<div>
+  <a href="https://instagram.com/eo_gabu" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:soaresgabriel33#gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-gabu" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
