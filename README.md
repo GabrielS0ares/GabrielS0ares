@@ -3,10 +3,8 @@
 <h1>Olá! Eu sou o Gabriel</h1>
 <h3>Trabalho como Desenvolvedor Front-end,  Estou dedicado ao aprimoramento contínuo das minhas habilidades, explorando as últimas tendências e ferramentas no universo do desenvolvimento web.</h3>
 
-<p align="center">
-  <img  width="350">
-</p>
 <div>
+  
   <h2>🖥️ Tecnologias: </h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='50px'/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='50px' /> 
@@ -20,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width='50px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='50px'/>
 </div>
+
 <br />
 <div>
   <h2>🛠️Ferramentas:</h2>
@@ -29,12 +28,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width='50px'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"  width='50px'/>
 </div>
+<img align="right" width="400px" style="margin-top:-20px" src="https://images.prismic.io/crmfaq/f42ba21d-87b7-4e97-b91e-4d6328e8cec4_octocat-1700797066605.png?auto=compress,format">
 <br />
 <div>
     <a href="https://github.com/gabrielS0ares">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielS0ares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br />
+
 
 <h2>Contatos</h2>
 <div>
